@@ -1,0 +1,23 @@
+D:\Documents\Xu ly anh\XLA\XLA\bin\Debug\XLA.exe.config
+D:\Documents\Xu ly anh\XLA\XLA\bin\Debug\XLA.exe
+D:\Documents\Xu ly anh\XLA\XLA\bin\Debug\XLA.pdb
+D:\Documents\Xu ly anh\XLA\XLA\bin\Debug\MaterialSkin.pdb
+D:\Documents\Xu ly anh\XLA\XLA\obj\Debug\XLA.csprojResolveAssemblyReference.cache
+D:\Documents\Xu ly anh\XLA\XLA\obj\Debug\XLA.Properties.Resources.resources
+D:\Documents\Xu ly anh\XLA\XLA\obj\Debug\XLA.csproj.GenerateResource.Cache
+D:\Documents\Xu ly anh\XLA\XLA\obj\Debug\XLA.exe
+D:\Documents\Xu ly anh\XLA\XLA\obj\Debug\XLA.pdb
+D:\Documents\Xu ly anh\XLA\XLA\obj\Debug\XLA.mainForm.resources
+C:\Users\Thang\OneDrive\Desktop\XLA\XLA\bin\Debug\XLA.exe.config
+C:\Users\Thang\OneDrive\Desktop\XLA\XLA\bin\Debug\XLA.exe
+C:\Users\Thang\OneDrive\Desktop\XLA\XLA\bin\Debug\XLA.pdb
+C:\Users\Thang\OneDrive\Desktop\XLA\XLA\bin\Debug\MaterialSkin.pdb
+C:\Users\Thang\OneDrive\Desktop\XLA\XLA\obj\Debug\XLA.csproj.AssemblyReference.cache
+C:\Users\Thang\OneDrive\Desktop\XLA\XLA\obj\Debug\XLA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thang\OneDrive\Desktop\XLA\XLA\obj\Debug\XLA.mainForm.resources
+C:\Users\Thang\OneDrive\Desktop\XLA\XLA\obj\Debug\XLA.Properties.Resources.resources
+C:\Users\Thang\OneDrive\Desktop\XLA\XLA\obj\Debug\XLA.csproj.GenerateResource.cache
+C:\Users\Thang\OneDrive\Desktop\XLA\XLA\obj\Debug\XLA.csproj.CoreCompileInputs.cache
+C:\Users\Thang\OneDrive\Desktop\XLA\XLA\obj\Debug\XLA.csproj.CopyComplete
+C:\Users\Thang\OneDrive\Desktop\XLA\XLA\obj\Debug\XLA.exe
+C:\Users\Thang\OneDrive\Desktop\XLA\XLA\obj\Debug\XLA.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d2e07fe6-458e-445c-ba07-8ec34547efa1": {
+      "ProjectGuid": "d2e07fe6-458e-445c-ba07-8ec34547efa1",
+      "DisplayName": "ImageProcessing",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
